@@ -19,8 +19,8 @@ body {
   padding-bottom: 10px;
 }
 
-.call_to_action {
-  background: #582b26;
+.call_to_action:hover {
+  background: #a13c31;
 }
 
 .call_to_action a {
