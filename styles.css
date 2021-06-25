@@ -21,7 +21,7 @@ body {
 
 .call_to_action a {
   color: white;
-
+  text-decoration: none;
 }
 
 .call_to_action a:hover {
