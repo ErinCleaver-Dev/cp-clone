@@ -19,15 +19,18 @@ body {
   padding-bottom: 10px;
 }
 
+.call_to_action {
+  background: #582b26;
+}
+
 .call_to_action a {
   color: white;
   text-decoration: none;
 }
 
-.call_to_action a:hover {
+.call_to_action a {
     color: white;
     cursor: pointer;
-  
   }
 /*Section for call to action ends*/
 /*Website Navigation begins*/
@@ -71,6 +74,7 @@ body {
 
 
 
+
 .boot-camp-info.background_image {
     background-image: url(https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2186302/settings_images/pt3dMMAKQ0m7zWobyr55_photo-1484417894907-623942c8ee29.webp);
     -webkit-background-size: cover;
@@ -80,18 +84,17 @@ body {
 }
 
 .boot-camp-info {
-
- 
   padding: 100px;
   color: white;    
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
+
 }
 
 #text_camp_info {
-  width: 400px;
+  width: 50%;
+  padding: 20px;
   margin-right: 120px;
 }
 
@@ -118,9 +121,9 @@ body {
   background-color: #2e91fc;
   color: #fff;
   font-weight: 600;
+  padding: 20px 10px;
   font-size: 2em;
   border: none;
-  padding: 10px;
   border-radius: 5px;
   box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
   cursor: pointer;
