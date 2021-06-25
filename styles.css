@@ -60,6 +60,13 @@ body {
   text-decoration: none;
   padding-right: 20px;
 }
+
+.main-menu-wrapper ul li a:hover {
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+    padding-right: 20px;
+  }
 /*Website Navigation ends*/
 
 
