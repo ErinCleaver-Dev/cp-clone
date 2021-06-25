@@ -42,6 +42,9 @@ body {
   padding: 40px 0;
 }
 
+#show_hide {
+  display: none;
+}
 #logo_image {
   max-width: 40px;
   display: inline-block;
@@ -151,7 +154,6 @@ h1, h2 {
     display: block;
     text-align: center;
   }
-
   .main-menu-wrapper ul {
     padding: 0;
   }
