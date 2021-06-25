@@ -24,6 +24,11 @@ body {
 
 }
 
+.call_to_action a:hover {
+    color: white;
+    cursor: pointer;
+  
+  }
 /*Section for call to action ends*/
 /*Website Navigation begins*/
 
