@@ -118,13 +118,15 @@ body {
   background-color: #2e91fc;
   color: #fff;
   font-weight: 600;
-  font-size: 3em;
+  font-size: 1.4em;
   border: none;
   padding: 10px;
   border-radius: 5px;
-  height: 100px;
   box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
   cursor: pointer;
+}
+#button_join_bootcamp:hover {
+    background-color: #60a9f6;
 }
 
 /*Used on multiple elements*/
